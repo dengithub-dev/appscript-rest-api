@@ -5,3 +5,5 @@ Available method that will be demonstrated is GET of all data, and POST.
 The sample has 5 columns in  google sheet as the database - > Date, Id, Age, Name, Address
 
 I commented the code for you to understand the process...
+
+If you have any inquiries regarding the code, please contact me through den.balinhawang@gmail.com
